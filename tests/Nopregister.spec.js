@@ -4,11 +4,11 @@ test("Register Nopcommerce",async({page})=>{
     await page.goto("/register")
     //Your Personal Details
     //firstname
-    await page.getByLabel("First name").fill("temba");
+    await page.getByLabel("First name").fill("teba");
     //lastname
     await page.locator("#LastName").fill("josh");
     //email
-    await page.locator("#Email").fill("sarife2782@calorpg.com");
+    await page.locator("#Email").fill("sarif785@calorpg.com");
     //company name
     await page.getByLabel("Company name").fill('tembs sports')
     //password 
@@ -28,7 +28,7 @@ test("Register Nopcommerce",async({page})=>{
 
 
 
-     await page.pause();
+     //await page.pause();
 
 
 }

@@ -15,7 +15,7 @@ test("Login Nopcommerce",async({page})=>{
 
 
 
-      await page.pause();
+     // await page.pause();
 
 
 })
