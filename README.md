@@ -14,12 +14,15 @@ Also started automation for Category and Account features. Faced timeout issues 
 Completed automation for Add New Address, View Account, News, and Community features
 
 complete automation for add new address features:
+
 ![image](https://github.com/user-attachments/assets/cacd6538-ef18-4457-afed-7ceaff7d317b)
 
 complete automation for check news features:
+
 ![image](https://github.com/user-attachments/assets/a46ea736-e4ed-4733-8209-166290146d16)
 
 complete automation for comunity features:
+
 ![image](https://github.com/user-attachments/assets/05705084-7534-4163-93c8-acc89200ece6)
 
 
